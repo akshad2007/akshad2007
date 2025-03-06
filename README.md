@@ -2,7 +2,7 @@
 - 👀 I’m interested in critical thinking, web development, and exploring new technologies.
 - 🌱 I’m currently learning advanced JavaScript and React.
 - 💞️ I’m looking to collaborate on innovative web development projects.
-- 📫 How to reach me:Instagram- _akshad_24_
+- 📫 How to reach me:Instagram- https://www.instagram.com/_akshad_24_/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I’m great at breaking down complex problems into creative solutions. 
 <!---
